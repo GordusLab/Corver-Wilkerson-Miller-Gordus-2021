@@ -2,8 +2,8 @@
 
 This repository accompanies the manuscript:
 
-> Distinct movement patterns generate stages of spider web-building
-> Abel Corver, Nicholas Wilkerson, Jeremiah Miller, Andrew G Gordus
+> **Distinct movement patterns generate stages of spider web-building**  
+> Abel Corver, Nicholas Wilkerson, Jeremiah Miller, Andrew G Gordus  
 > bioRxiv 2021.05.24.444987; doi: https://doi.org/10.1101/2021.05.24.444987 
 
 Correspondence may be addressed to:
